@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Generate snake
-        uses: Platane/snk/svg@v3
+        uses: Platane/snk/svg-only@v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
