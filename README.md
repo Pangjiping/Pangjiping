@@ -14,7 +14,6 @@
 - 🏢 Cloud Native / Platform Engineer @ **Alibaba**, Hangzhou
 - 🔥 Contributor to [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) & [Tekton](https://github.com/tektoncd/pipeline)
 - 🎯 Currently focusing on **Sandbox runtime for AI Agents**
-- ✍️ Occasional writer on [语雀](https://www.yuque.com/aganipp)
 
 </td>
 <td valign="top" width="50%">
@@ -50,7 +49,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Pangjiping?label=Followers&style=for-the-badge&logo=github&color=blueviolet" />
   <img src="https://img.shields.io/badge/Email-pangjiping.pjp@alibaba--inc.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://www.yuque.com/aganipp"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-aganipp-25B6F5?style=for-the-badge&logo=yuque&logoColor=white" /></a>
 </p>
 
 ### 🐍 Watch the snake eat my contributions
