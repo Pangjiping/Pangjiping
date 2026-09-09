@@ -31,19 +31,6 @@
 </td></tr>
 </table>
 
-### 📈 Most Used Languages
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-59.0%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-35.3%25-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2.3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1.5%25-563d7c?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-0.8%25-89e051?style=for-the-badge&logo=gnubash&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-0.6%25-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-
-</div>
-
 ### 📊 Stats
 
 <div align="center">
